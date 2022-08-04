@@ -1,6 +1,6 @@
 ### Привет, меня зовут Зелим! 👋
 ***
-* ___Frontend Developer___
+* ___FullStack Developer___
     * __Стек Frontend__ :
         * JavaScript, HTML, CSS, React, Redux, Redux-Toolkit, React Router, Material UI, Bootstrap, Fetch, Axios, Git.
     * __Стек Backend__ :
