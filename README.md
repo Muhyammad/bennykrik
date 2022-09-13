@@ -13,5 +13,3 @@
 * ___Проект Хижина(аренда хижины)___
     * [frontend-code](https://github.com/bennykrik/front_hotel)
     * [backend-code](https://github.com/bennykrik/back_for_hotel)
-
-#F7DF1E
