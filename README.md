@@ -13,22 +13,3 @@
 * ___Проект Хижина(аренда хижины)___
     * [frontend-code](https://github.com/bennykrik/front_hotel)
     * [backend-code](https://github.com/bennykrik/back_for_hotel)
-
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Pro</title>
-</head>
-<body>
-    <ul>
-        <li>
-            <a target="_blank" href="https://www.youtube.com/watch?v=LlsZbmji68Y">Первый проект</a>
-        </li>
-        <li>
-            <a target="_blank" href="https://www.youtube.com/watch?v=YNr1l-DRe4k">Второй проект</a>
-        </li>
-    </ul>
-</body>
-</html>
