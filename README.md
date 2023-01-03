@@ -36,3 +36,7 @@
 * ___Проект Хижина(аренда хижины)___
     * [frontend-code](https://github.com/bennykrik/front_hotel)
     * [backend-code](https://github.com/bennykrik/back_for_hotel)
+
+## Связь со мной: 
+<div>Telegram - https://t.me/ZelimFrontend</div>
+<div>Email - kveyk777@mail.ru</div>
