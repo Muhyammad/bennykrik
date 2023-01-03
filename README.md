@@ -2,7 +2,7 @@
   <img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="230"/>
 </p>
  
-<h1 align="center" >Всем привет, меня зовут Мансур и Я Frontend Разработчик! 👨🏻‍💻 </h1>
+<h1 align="center" >Всем привет, меня зовут Зелим и Я Frontend Разработчик! 👨🏻‍💻 </h1>
 
 <br />
  
@@ -26,6 +26,8 @@
 
  
  <br />
+ 
+ 
 ***
 * ___Проект Quize(прохождение викторин и тестов)___
     * [frontend-code](https://github.com/bennykrik/frontend-quize)
