@@ -1,4 +1,5 @@
 ### Hello World! 👋
+<img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="230"/>
 ***
 * ___FullStack Developer___
     * __Стек Frontend__ :
