@@ -1,14 +1,31 @@
-### Hello World! 👋
-<p>
-<img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="230"/>
-   
-   
-***
-* ___FullStack Developer___
-    * __Стек Frontend__ :
-        * JavaScript, HTML, CSS, React, Redux, Redux-Toolkit, React Router, Material UI, Bootstrap, Fetch, Axios, Git.
-    * __Стек Backend__ :
-        * Node.js, MongoDB, Mongoose, Express, Cors, JWT.
+<p align="center">
+  <img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="230"/>
+</p>
+ 
+<h1 align="center" >Всем привет, меня зовут Мансур и Я Frontend Разработчик! 👨🏻‍💻 </h1>
+
+<br />
+ 
+<div><b>Занимаюсь разработкой клиентской части сайтов. Мой основной стек - MERN.</b></div>
+
+<br />
+
+**Полный Стек:**
+- JavaScript
+- React
+- TypeScript
+- HTML5, CSS3, SASS
+- Redux, Redux Toolkit
+- MongoDB
+- Mongoose
+- ExpressJS 
+- NodeJS
+- React router dom v6
+- DOM
+- Webpack
+
+ 
+ <br />
 ***
 * ___Проект Quize(прохождение викторин и тестов)___
     * [frontend-code](https://github.com/bennykrik/frontend-quize)
